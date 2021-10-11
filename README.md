@@ -2,7 +2,7 @@
 
 Full stack Javascript application done with ReactJS, NodeJS, PostgreSQL and Clarify API 
 
-###Features:
+### Features:
 
 Register: The user can register a new account which will be stored in a database encrypting the password.
 
