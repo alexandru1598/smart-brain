@@ -1,6 +1,6 @@
 ### smart-brain
 
-Full stack Javascript application done with ReactJS, NodeJS, PostgreSQL and Clarify API 
+Full stack Javascript application done with ReactJS, NodeJS, PostgreSQL and Clarifai API 
 
 ### Features:
 
