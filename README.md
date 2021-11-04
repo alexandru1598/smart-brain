@@ -2,6 +2,9 @@
 
 Full stack Javascript application done with ReactJS, NodeJS, PostgreSQL and Clarifai API 
 
+### Demo: 
+https://smart-brain-tse.herokuapp.com/
+
 ### Features:
 
 Register: The user can register a new account which will be stored in a database encrypting the password.
