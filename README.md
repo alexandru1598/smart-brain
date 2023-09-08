@@ -1,9 +1,6 @@
 ### smart-brain
 
-Full stack Javascript application done with ReactJS, NodeJS, PostgreSQL and Clarifai API 
-
-### Demo: 
-https://smart-brain-tse.herokuapp.com/
+Full stack Javascript application done with ReactJS, NodeJS, PostgreSQL and Clarifai API
 
 ### Features:
 
